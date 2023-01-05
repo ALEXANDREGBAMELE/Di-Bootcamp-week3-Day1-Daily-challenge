@@ -1,0 +1,16 @@
+.planet{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    float: left;
+    margin: 10px;
+
+}
+
+.planetMercure{
+    background-color: rgb(218, 102, 60) !important;
+}
+.planetVenus{
+    background: linear-gradient(to right, blue, pink);
+}
